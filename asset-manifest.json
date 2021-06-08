@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ramprakash729/ramprakash-resume-webpage/static/css/main.b4f49798.chunk.css",
+    "main.js": "/ramprakash729/ramprakash-resume-webpage/static/js/main.20becea1.chunk.js",
+    "main.js.map": "/ramprakash729/ramprakash-resume-webpage/static/js/main.20becea1.chunk.js.map",
+    "runtime-main.js": "/ramprakash729/ramprakash-resume-webpage/static/js/runtime-main.241d140d.js",
+    "runtime-main.js.map": "/ramprakash729/ramprakash-resume-webpage/static/js/runtime-main.241d140d.js.map",
+    "static/css/2.bd87f2c7.chunk.css": "/ramprakash729/ramprakash-resume-webpage/static/css/2.bd87f2c7.chunk.css",
+    "static/js/2.400ce20d.chunk.js": "/ramprakash729/ramprakash-resume-webpage/static/js/2.400ce20d.chunk.js",
+    "static/js/2.400ce20d.chunk.js.map": "/ramprakash729/ramprakash-resume-webpage/static/js/2.400ce20d.chunk.js.map",
+    "static/js/3.cdb11fb5.chunk.js": "/ramprakash729/ramprakash-resume-webpage/static/js/3.cdb11fb5.chunk.js",
+    "static/js/3.cdb11fb5.chunk.js.map": "/ramprakash729/ramprakash-resume-webpage/static/js/3.cdb11fb5.chunk.js.map",
+    "index.html": "/ramprakash729/ramprakash-resume-webpage/index.html",
+    "static/css/2.bd87f2c7.chunk.css.map": "/ramprakash729/ramprakash-resume-webpage/static/css/2.bd87f2c7.chunk.css.map",
+    "static/css/main.b4f49798.chunk.css.map": "/ramprakash729/ramprakash-resume-webpage/static/css/main.b4f49798.chunk.css.map",
+    "static/js/2.400ce20d.chunk.js.LICENSE.txt": "/ramprakash729/ramprakash-resume-webpage/static/js/2.400ce20d.chunk.js.LICENSE.txt",
+    "static/media/api.2540f143.jpg": "/ramprakash729/ramprakash-resume-webpage/static/media/api.2540f143.jpg",
+    "static/media/dp.4fa81a86.jpg": "/ramprakash729/ramprakash-resume-webpage/static/media/dp.4fa81a86.jpg",
+    "static/media/App.css": "/ramprakash729/ramprakash-resume-webpage/static/media/laptop.c951803b.jpg",
+    "static/media/logo.623be1ab.png": "/ramprakash729/ramprakash-resume-webpage/static/media/logo.623be1ab.png",
+    "static/media/reactfire.cd7c241d.png": "/ramprakash729/ramprakash-resume-webpage/static/media/reactfire.cd7c241d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.241d140d.js",
+    "static/css/2.bd87f2c7.chunk.css",
+    "static/js/2.400ce20d.chunk.js",
+    "static/css/main.b4f49798.chunk.css",
+    "static/js/main.20becea1.chunk.js"
+  ]
+}
